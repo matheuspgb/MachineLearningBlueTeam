@@ -18,6 +18,5 @@ Sou **Estatístico** formado pela **Universidade de São Paulo (USP)** , com só
 
 Atuei em projetos para empresas dos setores **financeiro** e **marketing**, desenvolvendo soluções de modelagem estatística, análise preditiva, séries temporais, pipelines de dados e aplicações voltadas à tomada de decisão baseada em dados.
 
-Atualmente, aplico a mesma abordagem analítica e metodológica à área de **Segurança da Informação**, combinando minha experiência em dados com conhecimentos em **Segurança Ofensiva** e **Segurança Defensiva**.
 
 ---
