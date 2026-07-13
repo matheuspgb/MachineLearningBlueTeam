@@ -21,8 +21,3 @@ Atuei em projetos para empresas dos setores **financeiro** e **marketing**, dese
 Atualmente, aplico a mesma abordagem analítica e metodológica à área de **Segurança da Informação**, combinando minha experiência em dados com conhecimentos em **Segurança Ofensiva** e **Segurança Defensiva**.
 
 ---
-
-
----
-
-## 🏗️ Estrutura do Repositório
